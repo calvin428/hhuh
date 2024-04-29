@@ -1,0 +1,22 @@
+{
+  "foods": [
+    {
+      "name": "Nasi Goreng",
+      "description": "Nasi yang digoreng bersama bumbu-bumbu dan biasanya disajikan dengan telur mata sapi, irisan mentimun, dan kerupuk.",
+      "price": 25000,
+      "image_url": "https://example.com/nasi_goreng.jpg"
+    },
+    {
+      "name": "Sate Ayam",
+      "description": "Potongan daging ayam yang ditusuk dan dipanggang, disajikan dengan bumbu kacang dan lontong.",
+      "price": 30000,
+      "image_url": "https://example.com/sate_ayam.jpg"
+    },
+    {
+      "name": "Mie Ayam",
+      "description": "Mie yang disajikan dengan potongan daging ayam, pangsit goreng, sawi, dan irisan daun bawang.",
+      "price": 20000,
+      "image_url": "https://example.com/mie_ayam.jpg"
+    }
+  ]
+}
